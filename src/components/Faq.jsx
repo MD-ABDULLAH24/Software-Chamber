@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import frame_1 from "../assets/images/intro_stats/frame_1.png";
-import frame_2 from "../assets/images/intro_stats/frame_2.png";
+import frame_1 from "../assets/images/intro_stats/Frame_1.png";
+import frame_2 from "../assets/images/intro_stats/Frame_2.png";
 import { FaArrowRight } from "react-icons/fa";
 import { FiChevronDown } from "react-icons/fi";
 
