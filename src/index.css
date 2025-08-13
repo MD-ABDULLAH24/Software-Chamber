@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@theme {
+  --container: 1760px;
+}
+.container{
+  margin: 0 auto;
+}
+.bricolage{
+   font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+}
+
